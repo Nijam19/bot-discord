@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from myserver import server_on
 
-TOKEN = "MASUKKAN_BOT_TOKEN_ANDA" # ganti dengan token bot anda
+TOKEN = "MTA3NjE2MTgxNDQ2MDY0MTI4MA.GN9vSq.CZZIxM2QJcN-zbLen4X7y7ue9b2D_BJe7fL1K4" # ganti dengan token bot anda
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
